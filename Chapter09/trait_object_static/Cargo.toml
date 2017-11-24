@@ -1,0 +1,5 @@
+[package]
+name = "trait_object_static"
+version = "0.1.0"
+
+[dependencies]

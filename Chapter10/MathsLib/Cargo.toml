@@ -1,0 +1,10 @@
+[package]
+name = "mathslib"
+version = "0.1.0"
+authors = ["Paul Johnson <paul@all-the-johnsons.co.uk>"]
+
+[dependencies]
+
+[lib]
+name = "mathslib"
+path = "src/lib.rs"

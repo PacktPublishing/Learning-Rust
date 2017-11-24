@@ -1,0 +1,5 @@
+[package]
+name = "generic_multiply_return_t"
+version = "0.1.0"
+
+[dependencies]

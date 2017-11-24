@@ -1,0 +1,6 @@
+[package]
+name = "QuickTest"
+version = "0.1.0"
+authors = ["Paul Johnson <paul@tyresonthedrive.com>"]
+
+[dependencies]

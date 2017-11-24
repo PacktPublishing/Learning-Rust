@@ -1,0 +1,5 @@
+[package]
+name = "trait_bound_gen_struct"
+version = "0.1.0"
+
+[dependencies]

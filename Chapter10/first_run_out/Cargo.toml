@@ -1,0 +1,7 @@
+[package]
+name = "first_run_out"
+version = "0.1.0"
+authors = ["Paul Johnson <paul@all-the-johnsons.co.uk>"]
+
+[dependencies]
+mathslib = { path = "." }

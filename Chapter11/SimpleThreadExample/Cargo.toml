@@ -1,0 +1,6 @@
+[package]
+name = "SimpleThreadExample"
+version = "0.1.0"
+authors = ["vegai <vegai@iki.fi>"]
+
+[dependencies]

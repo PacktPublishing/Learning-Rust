@@ -1,0 +1,6 @@
+[package]
+name = "close_mut_error"
+version = "0.1.0"
+authors = ["vegai <vegai@iki.fi>"]
+
+[dependencies]

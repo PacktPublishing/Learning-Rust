@@ -1,0 +1,5 @@
+[package]
+name = "semicolon_block"
+version = "0.1.0"
+
+[dependencies]

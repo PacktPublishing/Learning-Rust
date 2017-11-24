@@ -1,0 +1,6 @@
+[package]
+name = "generic_trait_where"
+version = "0.1.0"
+
+[dependencies]
+num = "*"

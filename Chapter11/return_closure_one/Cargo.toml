@@ -1,0 +1,6 @@
+[package]
+name = "return_closure_one"
+version = "0.1.0"
+authors = ["vegai <vegai@iki.fi>"]
+
+[dependencies]
