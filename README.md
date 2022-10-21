@@ -44,3 +44,7 @@ has been writing software since the early 1980s on machines ranging from the ZX8
 
 **Vesa Kaihlavirta**
 has been programming since he was 5, beginning with C64 Basic. His main professional goal in life is to increase awareness about programming languages and software quality in all industries that use software. He's an Arch Linux Developer Fellow and has been working in the telecom and financial industry for over a decade. Vesa lives in Central Finland, in Jyväskylä. Vesa worked on the final editing phase of Learning Rust.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785884306">https://packt.link/free-ebook/9781785884306 </a> </p>
